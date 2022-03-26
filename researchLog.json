@@ -1,16 +1,13 @@
 {
 	"entry": [
 		{
-			"item": []
-		},
-		{
 			"date": "2022-03-26",
 			"item": [
 				"ionicframework.com/docs/components",
 				"material.io/design/color/text-legibility.html#legibility-standards",
 				"ionic.io/ionicons/v4",
 				"github.com/ionic-team/ionicons",
-				"freecodecamp.org"
+				"w3schools.com"
 			]
 		},
 		{
