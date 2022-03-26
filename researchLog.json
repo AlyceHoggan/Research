@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2022-03-26",
+			"item": [
+				"ionicframework.com/docs/components",
+				"material.io/design/color/text-legibility.html#legibility-standards",
+				"ionic.io/ionicons/v4",
+				"github.com/ionic-team/ionicons"
+			]
+		},
+		{
 			"date": "2022-03-25",
 			"item": [
 				"colordesigner.io/gradient-generator",
