@@ -4,10 +4,10 @@
 			"date": "2022-03-26",
 			"item": [
 				"+",
+				"Icons",
 				"ionic.io/ionicons/v4",
 				"ionicframework.com/docs/components",
 				"material.io/design/color/text-legibility.html#legibility-standards",
-				"+",
 				"github.com/ionic-team/ionicons",
 				"+",
 				"Code",
@@ -16,8 +16,7 @@
 				"+",
 				"UX Design",
 				"behindthename.com    ",
-				"personagenerator.com ",
-				"+"
+				"personagenerator.com "
 			]
 		},
 		{
