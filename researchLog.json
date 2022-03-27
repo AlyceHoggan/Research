@@ -3,12 +3,21 @@
 		{
 			"date": "2022-03-26",
 			"item": [
+				"+",
+				"ionic.io/ionicons/v4",
 				"ionicframework.com/docs/components",
 				"material.io/design/color/text-legibility.html#legibility-standards",
-				"ionic.io/ionicons/v4",
+				"+",
 				"github.com/ionic-team/ionicons",
+				"+",
+				"Code",
 				"w3schools.com",
-				"behindthename.com"
+				"developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook",
+				"+",
+				"UX Design",
+				"behindthename.com    ",
+				"personagenerator.com ",
+				"+"
 			]
 		},
 		{
