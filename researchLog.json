@@ -6,7 +6,8 @@
 				"google.com/search?q=color+picker",
 				"necolas.github.io/normalize.css/8.0.1/normalize.css",
 				"jotform.com",
-				"support.apple.com/manuals/en_US"
+				"support.apple.com/manuals/en_US",
+				"https://m3.material.io"
 			]
 		},
 		{
@@ -18,7 +19,7 @@
 		{
 			"date": "2022-03-29",
 			"item": [
-				"thegymnasium.com/courses/take5/creating-beautiful-and-accessible-drop-caps"
+				"thegymnasium.com/courses/take5"
 			]
 		},
 		{
@@ -44,7 +45,7 @@
 			"date": "2022-03-26",
 			"item": [
 				"ionicframework.com/docs/components",
-				"material.io/design/color/text-legibility.html#legibility-standards",
+				"material.io/design/color/text-legibility",
 				"github.com/ionic-team/ionicons",
 				"w3schools.com",
 				"developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook",
