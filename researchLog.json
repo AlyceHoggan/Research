@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-01",
+			"item": [
+				"mozilla.design/mozilla/color"
+			]
+		},
+		{
 			"date": "2022-03-31",
 			"item": [
 				"google.com/search?q=color+picker",
