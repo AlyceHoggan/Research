@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-02",
+			"item": [
+				"acm.org/membership/acm-at-a-glance"
+			]
+		},
+		{
 			"date": "2022-04-01",
 			"item": [
 				"mozilla.design/mozilla/color",
