@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-10",
+			"item": [
+				"color.a11y.com",
+				"webaim.org/resources/contrastchecker",
+				"accessibleweb.com/color-contrast-checker"
+			]
+		},
+		{
 			"date": "2022-04-09",
 			"item": [
 				"developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors",
