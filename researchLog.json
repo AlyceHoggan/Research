@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-09",
+			"item": [
+				"developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors"
+			]
+		},
+		{
 			"date": "2022-04-08",
 			"item": [
 				"frontendmasters.com",
