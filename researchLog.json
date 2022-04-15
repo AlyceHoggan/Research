@@ -1,6 +1,16 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-15",
+			"item": [
+				"w3schools.com/quiztest/quiztest.asp?qtest=HTML",
+				"w3schools.com/quiztest/quiztest.asp?qtest=CSS",
+				"w3schools.com/quiztest/quiztest.asp?qtest=JS",
+				"w3schools.com/howto/default.asp",
+				"w3schools.com/howto/tryit.asp?filename=tryhow_js_accordion_symbol"
+			]
+		},
+		{
 			"date": "2022-04-14",
 			"item": [
 				"plainlanguage.gov/resources/articles/dash-writing-tips",
