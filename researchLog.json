@@ -1,9 +1,7 @@
 {
 	"entry": [
 		{
-			"item": [
-				"2022"
-			]
+			"item": []
 		},
 		{
 			"date": "2022-04-21",
@@ -11,7 +9,8 @@
 				"https://store.hbr.org",
 				"https://www.tesla.com/AI",
 				"https://en.wikipedia.org/wiki/Photogrammetry",
-				"https://www.photogrammetry.com"
+				"https://www.photogrammetry.com",
+				"https://developer.nvidia.com/rtx/ray-tracing"
 			]
 		},
 		{
