@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2022-05-18",
+			"item": [
+				"https://moderncss.dev/topics/",
+				"https://moderncss.dev/guide-to-advanced-css-selectors-part-one/",
+				"https://moderncss.dev/guide-to-advanced-css-selectors-part-two/"
+			]
+		},
+		{
 			"date": "2022-05-17",
 			"item": [
 				"https://borderleft.com/toolbox/rem/"
