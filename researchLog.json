@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-06-16",
+			"item": [
+				"https://arxiv.org/pdf/0707.3638.pdf"
+			]
+		},
+		{
 			"date": "2022-06-15",
 			"item": [
 				"https://tania.dev/musical-instrument-web-audio-api/",
