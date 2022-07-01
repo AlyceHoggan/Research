@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2022-07-01",
+			"item": [
+				"https://frontendmasters.com/courses/advanced-css-layouts/",
+				"https://frontendmasters.com/courses/motion-design-css/",
+				"https://frontendmasters.com/courses/svg-essentials-animation/"
+			]
+		},
+		{
 			"date": "2022-06-30",
 			"item": [
 				"https://machinelearning.design/",
