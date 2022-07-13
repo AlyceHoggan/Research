@@ -8,13 +8,14 @@
 				"https://color.adobe.com/explore",
 				"https://color.adobe.com/create/color-contrast-analyzer",
 				"https://color.adobe.com/create/image-gradient",
-				"https://color.adobe.com/create/color-wheel"
+				"https://color.adobe.com/create/color-wheel",
+				"http://colrd.com/palette/"
 			]
 		},
 		{
 			"date": "2022-07-12",
 			"item": [
-				"https://practicetestgeeks.com/css-practice-test-exam/",
+				"On Writing",
 				"https://quillbot.com/courses/introduction-to-college-level-writing/chapter/types-of-rhetorical-modes/",
 				"https://www.grammarly.com/blog/types-of-essays/",
 				"https://www.grammarly.com/blog/category/handbook/",
@@ -24,19 +25,21 @@
 		{
 			"date": "2022-07-11",
 			"item": [
-				"https://www.w3schools.com/js/",
-				"https://www.w3schools.com/howto/default.asp",
+				"On CSS",
 				"https://www.w3schools.com/howto/howto_css_fullscreen_video.asp",
 				"https://www.w3schools.com/howto/howto_css_product_card.asp",
 				"https://www.w3schools.com/howto/howto_css_profile_card.asp",
-				"https://www.w3schools.com/howto/howto_css_cards.asp"
+				"https://www.w3schools.com/howto/howto_css_cards.asp",
+				"https://practicetestgeeks.com/css-practice-test-exam/"
 			]
 		},
 		{
 			"date": "2022-07-10",
 			"item": [
-				"http://colrd.com/palette/",
-				"https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_portfolio_gallery_filter"
+				"On JavaScript",
+				"https://www.w3schools.com/howto/default.asp",
+				"https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_portfolio_gallery_filter",
+				"https://www.w3schools.com/js/"
 			]
 		},
 		{
