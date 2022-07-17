@@ -142,7 +142,8 @@
 				"medium.com/@Vincentxia77/what-kind-of-interaction-design-portfolios-do-interviewers-want-to-see-56217eefe902",
 				"https://designbro.com/blog/inspiration/graphic-design-portfolio-examples/",
 				"designbro.com/blog/inspiration/graphic-design-portfolio-examples/",
-				"ciid.dk/education/portfolio/"
+				"ciid.dk/education/portfolio/",
+				"https://mitpress.mit.edu/books/code-creative-medium"
 			]
 		},
 		{
@@ -167,20 +168,19 @@
 		{
 			"date": "2022-07-02",
 			"item": [
-				"https://mitpress.mit.edu/books/code-creative-medium",
-				"https://www.w3schools.com/howto/howto_css_profile_card.asp",
-				"https://frontendmasters.com/workshops/semantics-selectors/#player",
-				"https://frontendmasters.com/courses/motion-design-css/css-animations/",
+				"https://www.w3schools.com/css/default.asp",
 				"https://www.w3schools.com/default.asp",
 				"https://www.w3schools.com/cssref/sel_element.asp",
-				"https://www.w3schools.com/css/default.asp",
-				"https://frontendmasters.com/courses/motion-design-css/css-transitions/",
-				"https://www.w3schools.com/js/js_examples.asp"
+				"https://www.w3schools.com/js/js_examples.asp",
+				"https://www.w3schools.com/howto/howto_css_profile_card.asp"
 			]
 		},
 		{
 			"date": "2022-07-01",
 			"item": [
+				"https://frontendmasters.com/workshops/semantics-selectors/#player",
+				"https://frontendmasters.com/courses/motion-design-css/css-animations/",
+				"https://frontendmasters.com/courses/motion-design-css/css-transitions/",
 				"https://frontendmasters.com/courses/advanced-css-layouts/",
 				"https://frontendmasters.com/courses/motion-design-css/",
 				"https://frontendmasters.com/courses/svg-essentials-animation/",
