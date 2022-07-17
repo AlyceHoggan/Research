@@ -106,6 +106,7 @@
 		{
 			"date": "2022-07-06",
 			"item": [
+				"On W3 Schools",
 				"https://www.w3schools.com/cssref/css_selectors.asp",
 				"https://www.w3schools.com/cssref/default.asp",
 				"https://www.w3schools.com/cssref/css3_browsersupport.asp",
@@ -119,14 +120,13 @@
 				"https://www.w3schools.com/cssref/css_colors.asp",
 				"https://www.w3schools.com/cssref/css_colors_legal.asp",
 				"https://www.w3schools.com/cssref/css_default_values.asp",
-				"https://www.w3schools.com/cssref/css_entities.asp",
-				"On W3 Schools"
+				"https://www.w3schools.com/cssref/css_entities.asp"
 			]
 		},
 		{
 			"date": "2022-07-05",
 			"item": [
-				"On Interactive Design and Portfolio Examples",
+				"On Interactive Design Portfolio Examples",
 				"www.nngroup.com/articles/ux-design-portfolios/",
 				"www.mockplus.com/blog/post/interactive-design-example",
 				"www.behance.net/search/projects/?search=Interaction+design+&sort=recommended&time=month",
