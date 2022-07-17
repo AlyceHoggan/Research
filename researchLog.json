@@ -178,6 +178,7 @@
 		{
 			"date": "2022-07-01",
 			"item": [
+				"On SVG Animation",
 				"https://frontendmasters.com/courses/svg-essentials-animation/",
 				"On CSS",
 				"https://frontendmasters.com/workshops/semantics-selectors/#player",
@@ -185,8 +186,7 @@
 				"https://frontendmasters.com/courses/motion-design-css/css-transitions/",
 				"https://frontendmasters.com/courses/advanced-css-layouts/",
 				"https://frontendmasters.com/courses/motion-design-css/",
-				"https://frontendmasters.com/courses/css-in-depth-v2/",
-				"On SVG Animation"
+				"https://frontendmasters.com/courses/css-in-depth-v2/"
 			]
 		},
 		{
