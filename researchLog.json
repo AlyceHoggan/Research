@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-07-20",
+			"item": [
+				"https://mitpress.mit.edu/books/persuading-data"
+			]
+		},
+		{
 			"date": "2022-07-19",
 			"item": [
 				"On CSS Gradients",
