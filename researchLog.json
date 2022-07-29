@@ -3,7 +3,10 @@
 		{
 			"date": "2022-07-28",
 			"item": [
-				"https://www.w3schools.com/cssref/css3_pr_animation-timing-function.asp"
+				"https://www.w3schools.com/cssref/css3_pr_animation-timing-function.asp",
+				"cubic-bezier(0.5, 0, 0.5, 1)   Y value 0 / Y value 1",
+				"entry / movement / exit ",
+				"Googles motion design "
 			]
 		},
 		{
