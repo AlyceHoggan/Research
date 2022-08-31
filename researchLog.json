@@ -1,9 +1,13 @@
 {
 	"entry": [
 		{
+			"item": []
+		},
+		{
 			"date": "2022-08-30",
 			"item": [
-				"https://www.smashingmagazine.com/articles/"
+				"https://www.smashingmagazine.com/articles/",
+				"https://www.smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/"
 			]
 		},
 		{
