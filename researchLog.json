@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-01",
+			"item": [
+				"https://www.ets.org/s/gre/pdf/gre_math_conventions.pdf"
+			]
+		},
+		{
 			"item": [
 				"https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units"
 			],
