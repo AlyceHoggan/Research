@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-01",
+			"item": [
+				"https://www.idsadesignfoundation.org/"
+			]
+		},
+		{
 			"date": "2022-09-30",
 			"item": [
 				"https://css-tricks.com/injecting-line-break/"
