@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-06",
+			"item": [
+				"https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto"
+			]
+		},
+		{
 			"date": "2022-10-05",
 			"item": [
 				"https://www.linkedin.com/learning/css-selectors-2/the-power-of-selectors-15095607?autoplay=true"
