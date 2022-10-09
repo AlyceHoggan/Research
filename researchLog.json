@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-09",
+			"item": [
+				"https://www-s3-live.kent.edu/s3fs-root/s3fs-public/file/Action%20Verbs.pdf"
+			]
+		},
+		{
 			"item": [
 				"https://openprocessing.org/"
 			],
