@@ -1,9 +1,13 @@
 {
 	"entry": [
 		{
+			"item": []
+		},
+		{
 			"date": "2022-10-10",
 			"item": [
-				"https://www.paulirish.com/2012/box-sizing-border-box-ftw/"
+				"https://www.paulirish.com/2012/box-sizing-border-box-ftw/",
+				"https://github.com/zoltan-dulac/html5forms.js"
 			]
 		},
 		{
