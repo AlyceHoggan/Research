@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-15",
+			"item": [
+				"https://www.w3schools.com/css/css_howto.asp"
+			]
+		},
+		{
 			"date": "2022-10-13",
 			"item": [
 				"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide"
