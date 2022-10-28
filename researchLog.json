@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-27",
+			"item": [
+				"https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors"
+			]
+		},
+		{
 			"date": "2022-10-26",
 			"item": [
 				"https://cartographicperspectives.org/index.php/journal/article/view/1510/1687"
