@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-28",
+			"item": [
+				"https://www.w3schools.com/typingspeed/default.asp"
+			]
+		},
+		{
 			"date": "2022-10-27",
 			"item": [
 				"https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors"
