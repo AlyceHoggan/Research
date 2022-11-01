@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-01",
+			"item": [
+				"https://web.dev/learn/css/"
+			]
+		},
+		{
 			"date": "2022-10-31",
 			"item": [
 				"https://www.w3schools.com/howto/howto_css_list_without_bullets.asp",
