@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-02",
+			"item": [
+				"https://developer.mozilla.org/en-US/docs/Web/CSS/animation"
+			]
+		},
+		{
 			"date": "2022-11-01",
 			"item": [
 				"https://web.dev/learn/css/"
