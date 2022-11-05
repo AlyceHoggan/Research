@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-04",
+			"item": [
+				"https://css-tricks.com/almanac/"
+			]
+		},
+		{
 			"date": "2022-11-03",
 			"item": [
 				"https://www.30secondsofcode.org/css/t/interactivity/p/1"
