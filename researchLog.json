@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-13",
+			"item": [
+				"https://www.w3schools.com/howto/howto_css_three_columns.asp"
+			]
+		},
+		{
 			"date": "2022-11-12",
 			"item": [
 				"https://css-tricks.com/a-complete-guide-to-links-and-buttons/"
