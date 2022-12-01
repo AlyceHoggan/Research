@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-30",
+			"item": [
+				"CSS Shadow: box-shadow: 10px 10px 5px #dddddd;"
+			]
+		},
+		{
 			"date": "2022-11-29",
 			"item": [
 				"HTML Code for Images: https://www.w3schools.com/html/html_images.asp"
