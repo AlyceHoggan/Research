@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-01",
+			"item": [
+				"DESIGN THINKING: https://web.mit.edu/jrankin/www/engin_as_lib_art/Design_thinking.pdf"
+			]
+		},
+		{
 			"date": "2022-11-30",
 			"item": [
 				"CSS Shadow: box-shadow: 10px 10px 5px #dddddd;"
