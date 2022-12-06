@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-05",
+			"item": [
+				"CSS: FLOWROOT: https://caniuse.com/?search=flow%20root"
+			]
+		},
+		{
 			"date": "2022-12-04",
 			"item": [
 				"CSS BOX SIZING:https://www.w3schools.com/css/css3_box-sizing.asp"
