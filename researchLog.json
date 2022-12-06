@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-06",
+			"item": [
+				"ACCESSIBILITY TABLES:https://www.smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/"
+			]
+		},
+		{
 			"date": "2022-12-05",
 			"item": [
 				"CSS: FLOWROOT: https://caniuse.com/?search=flow%20root"
