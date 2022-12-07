@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-07",
+			"item": [
+				"CSS Selector Not: https://developer.mozilla.org/en-US/docs/Web/CSS/:not"
+			]
+		},
+		{
 			"date": "2022-12-06",
 			"item": [
 				"ACCESSIBILITY TABLES:https://www.smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/"
