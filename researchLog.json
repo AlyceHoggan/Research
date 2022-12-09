@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-08",
+			"item": [
+				"FIGMA Export: https://help.figma.com/hc/en-us/articles/360040028114-Guide-to-exports-in-Figma"
+			]
+		},
+		{
 			"date": "2022-12-07",
 			"item": [
 				"CSS Selector Not: https://developer.mozilla.org/en-US/docs/Web/CSS/:not"
