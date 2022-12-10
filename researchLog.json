@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-09",
+			"item": [
+				"CSS Animation: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations"
+			]
+		},
+		{
 			"date": "2022-12-08",
 			"item": [
 				"FIGMA Export: https://help.figma.com/hc/en-us/articles/360040028114-Guide-to-exports-in-Figma"
