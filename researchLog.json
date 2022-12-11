@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-10",
+			"item": [
+				"CSS Indentation: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Consistent_list_indentation"
+			]
+		},
+		{
 			"date": "2022-12-09",
 			"item": [
 				"CSS Animation: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations"
