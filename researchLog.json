@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-01",
+			"item": [
+				"google.com"
+			]
+		},
+		{
 			"date": "2022-12-31",
 			"item": [
 				"DESIGN OPS: https://www.nngroup.com/articles/design-operations-101/"
