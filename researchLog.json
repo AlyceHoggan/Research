@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-06",
+			"item": [
+				"HTML SYMBOLS: https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/"
+			]
+		},
+		{
 			"date": "2023-01-05",
 			"item": [
 				"CODE SVG: https://developer.mozilla.org/en-US/docs/Web/SVG"
