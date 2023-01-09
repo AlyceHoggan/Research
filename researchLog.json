@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-09",
+			"item": [
+				"CANVAS: https://www.w3schools.com/graphics/canvas_coordinates.asp"
+			]
+		},
+		{
 			"date": "2023-01-08",
 			"item": [
 				"GRID: https://meyerweb.com/eric/thoughts/2020/07/01/accordion-rows-in-css-grid/"
