@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-08",
+			"item": [
+				"GRID: https://meyerweb.com/eric/thoughts/2020/07/01/accordion-rows-in-css-grid/"
+			]
+		},
+		{
 			"date": "2023-01-07",
 			"item": [
 				"HTML SCROLL: https://www.w3schools.com/cssref/pr_scroll-behavior.php"
