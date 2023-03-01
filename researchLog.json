@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-03-01",
+			"item": [
+				"CSS https://developer.chrome.com/blog/control-your-drop-caps-with-css-initial-letter/"
+			]
+		},
+		{
 			"date": "2023-02-28",
 			"item": [
 				"CSS https://css-tricks.com/box-sizing/"
