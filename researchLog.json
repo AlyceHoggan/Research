@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-03-02",
+			"item": [
+				"Open Ai https://openai.com/blog"
+			]
+		},
+		{
 			"date": "2023-03-01",
 			"item": [
 				"CSS https://developer.chrome.com/blog/control-your-drop-caps-with-css-initial-letter/"
