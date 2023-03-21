@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-03-20",
+			"item": [
+				"Javascript Evens"
+			]
+		},
+		{
 			"date": "2023-03-19",
 			"item": [
 				"CSS VAR https://www.w3schools.com/cssref/func_var.php"
