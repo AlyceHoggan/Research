@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-04-07",
+			"item": [
+				"SYSTEM DESIGN: http://lamport.org/"
+			]
+		},
+		{
 			"date": "2023-04-06",
 			"item": [
 				"CSS VARIABLES: https://www.digitalocean.com/community/tutorials/css-css-variables ",
