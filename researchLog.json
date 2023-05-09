@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-08",
+			"item": [
+				"CSS Default Values Reference : https://www.w3schools.com/cssref/css_default_values.php"
+			]
+		},
+		{
 			"date": "2023-05-07",
 			"item": [
 				"CSS Cascade, Inheritance, and Specificity : Front-end Masters Jen Kramer "
