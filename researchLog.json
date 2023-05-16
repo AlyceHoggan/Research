@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-15",
+			"item": [
+				"RESPONSIVE IMAGES: https://responsivebreakpoints.com/"
+			]
+		},
+		{
 			"date": "2023-05-14",
 			"item": [
 				"FLEXBOX and GRID - https://frontendmasters.com/courses/css-grid-flexbox-v2"
