@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-30",
+			"item": [
+				"Matching html tags today during testing. <li></li>  with a class on a span tag to offset dates in my timeline. I need to use the attribute tags for this principle."
+			]
+		},
+		{
 			"date": "2023-05-29",
 			"item": [
 				"Skills required in Product Design"
