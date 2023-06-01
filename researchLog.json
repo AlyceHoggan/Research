@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-31",
+			"item": [
+				"Dark mode needs to be improved. It needs to transform bright colors and white objects on the page to a dim color set. The brightness of everything on the page can make it impossible to focus on the info being displayed. Consider the content being presented on a screen from a presenter. If the viewer has set their system to a dark mode, the presentation on youtube is still too bright. This change of anything over a set brightness level needs to be driven automatically by artificial intelligence. "
+			]
+		},
+		{
 			"date": "2023-05-30",
 			"item": [
 				"Matching html tags today during testing. <li></li>  with a class on a span tag to offset dates in my timeline. I need to use the attribute tags for this principle."
