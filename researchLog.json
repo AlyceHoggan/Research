@@ -3,7 +3,8 @@
 		{
 			"date": "2023-06-03",
 			"item": [
-				"JAVASCRIPT: Operators: JavaScript includes various operators such as arithmetic operators (+, -, *, /), assignment operators (=, +=, -=), comparison operators (==, ===, !=, !==), and logical operators (&&, ||, !)."
+				"JAVASCRIPT: Operators: JavaScript includes various operators such as arithmetic operators (+, -, *, /), assignment operators (=, +=, -=), comparison operators (==, ===, !=, !==), and logical operators (&&, ||, !).",
+				"Functions: Functions are reusable blocks of code that perform a specific task. You can define functions using the function keyword."
 			]
 		},
 		{
