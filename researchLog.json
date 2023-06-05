@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-04",
+			"item": [
+				"COLOR PICKER: https://www.colorzilla.com/"
+			]
+		},
+		{
 			"date": "2023-06-03",
 			"item": [
 				"JAVASCRIPT: Operators: JavaScript includes various operators such as arithmetic operators (+, -, *, /), assignment operators (=, +=, -=), comparison operators (==, ===, !=, !==), and logical operators (&&, ||, !).",
