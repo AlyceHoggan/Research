@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-08",
+			"item": [
+				"WRITING CONTENT: Consider the intersection of business goals and user needs"
+			]
+		},
+		{
+			"item": []
+		},
+		{
 			"date": "2023-06-07",
 			"item": [
 				"CSS VERTICAL WRITING MODE: h1 {   writing-mode: vertical-rl; }"
