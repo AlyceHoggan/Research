@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-09",
+			"item": [
+				"ALIGN-ITEMS: normal|stretch|positional alignment|flex-start|flex-end|baseline|initial|inherit;",
+				"NOTE: baseline, first baseline, last baseline All flex items are aligned such that their flex CONTAINER baselines align.",
+				"Slight adjustments need to be made to compensate for the baseline of the x height."
+			]
+		},
+		{
 			"date": "2023-06-08",
 			"item": [
 				"WRITING CONTENT: Consider the intersection of business goals and user needs"
