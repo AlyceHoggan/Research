@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"item": []
+		},
+		{
+			"date": "2023-06-10",
+			"item": [
+				"PROMPT ENGINEERING: https://mlops.community/fine-tuning-vs-prompt-engineering-llms/ "
+			]
+		},
+		{
 			"date": "2023-06-09",
 			"item": [
 				"ALIGN-ITEMS: normal|stretch|positional alignment|flex-start|flex-end|baseline|initial|inherit;",
