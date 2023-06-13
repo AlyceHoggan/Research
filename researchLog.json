@@ -1,6 +1,21 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-12",
+			"item": [
+				"DESIGN PROCESS: https://www.nngroup.com/topic/ux-design-process/"
+			]
+		},
+		{
+			"item": []
+		},
+		{
+			"item": []
+		},
+		{
+			"item": []
+		},
+		{
 			"date": "2023-06-11",
 			"item": [
 				"CSS GRID: If you need space for more items than the explicit grid is set up to handle an implicit grid is created automatically."
