@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"item": []
+		},
+		{
+			"date": "2023-06-13",
+			"item": [
+				"L I SLISLISTSMenu lists and navigation lists The <menu> list is overlooked. Its purpose is to style button groups that offer functions that are NOT links. For example, in an email app, you'd have buttons for reply, forward, delete, etc. These buttons would be marked up using <menu>.  Contrast this with standard <nav> navigation bars containing <ul> unordered lists. Navbars take you to another page via an <a> link. Buttons with <button>, however, are for JavaScript programming and anything else that's not a link."
+			]
+		},
+		{
 			"date": "2023-06-12",
 			"item": [
 				"DESIGN PROCESS: https://www.nngroup.com/topic/ux-design-process/"
