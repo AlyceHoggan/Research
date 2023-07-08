@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2023-07-08",
+			"item": [
+				"Mathematical Physics: The application of mathematical methods to problems in physics. ",
+				"Computational Geometry: Focus on computer graphics, robotics, geographic information systems, computer-aided design, and computer vision"
+			]
+		},
+		{
 			"date": "2023-07-07",
 			"item": [
 				"CSS Motion and Layout: Frontend Masters "
