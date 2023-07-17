@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-07-16",
+			"item": [
+				"MDN References: Comprehensive documentation for the core technologies of the web, including HTML, CSS, and JavaScript."
+			]
+		},
+		{
 			"date": "2023-07-15",
 			"item": [
 				"CSS Animation: Motion ball moves in a square and on hover turns from red to blue while moving."
