@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-07-17",
+			"item": [
+				"A11Y: Accommodate all potential users "
+			]
+		},
+		{
 			"date": "2023-07-16",
 			"item": [
 				"MDN References: Comprehensive documentation for the core technologies of the web, including HTML, CSS, and JavaScript."
