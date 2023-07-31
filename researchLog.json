@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2023-07-30",
+			"item": [
+				"Animatable filters SVG, Canvas, and CSS - Similarities in purpose - comparison chart.",
+				"Effects: blur, brightness, contrast drop-shadow, grayscale, hue-rotate, opacity, saturate, sepia, url, displacement, color-matrix, component transfer, lighting, shadow "
+			]
+		},
+		{
 			"date": "2023-07-29",
 			"item": [
 				"Adobe Photoshop and Illustrator - revisions to the welcome flyer "
