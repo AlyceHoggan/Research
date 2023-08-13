@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-08-12",
+			"item": [
+				"Experimenting with ChatGPT on topics related to design and code."
+			]
+		},
+		{
 			"date": "2023-08-11",
 			"item": [
 				"Code theory into practice - building an activity system from scratch.  "
