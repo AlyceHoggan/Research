@@ -4,11 +4,11 @@
 			"date": "2023-08-13",
 			"item": [
 				"Mobile UI Design - Include the Five Affordances",
-				"Portability: Users can take the device anywhere and use it on the go. Hence, affordances must be glanceable.   ",
-				"Context Sensitivity: The device can sense the user’s context (location, orientation, lighting levels, etc.); so, affordances should be sensitive and adapt to context requirements and constraints. ",
-				"Social Interactivity: Users can communicate and interact with other users. Social affordances should facilitate better cooperation, communication, and collaboration. ",
-				"Connectivity: Mobile devices can be used with and without internet (and network) connectivity. Affordances should respect offline or low-bandwidth scenarios.  ",
-				"Individuality: Devices are personal, which makes it possible to design personalized and customized experiences."
+				"+ Portability: Users can take the device anywhere and use it on the go. Hence, affordances must be glanceable.   ",
+				"+ Context Sensitivity: The device can sense the user’s context such as location, orientation, lighting levels, and more. Make affordances sensitive.  Adapt to context requirements and constraints. ",
+				"+ Social Interactivity: Users can communicate and interact with other users. Social affordances should facilitate better cooperation, communication, and collaboration. ",
+				"+ Connectivity: Mobile devices can be used with and without internet and network connectivity. Affordances should respect offline or low-bandwidth scenarios.  ",
+				"+ Individuality: Devices are personal. This makes it possible to design personalized and customized experiences."
 			]
 		},
 		{
