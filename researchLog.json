@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2023-08-19",
+			"item": [
+				"Almanac CSS Tricks",
+				"Selectors CSS selectors are patterns used to select elements in the DOM.  ",
+				"Properties CSS properties style elements through their values."
+			]
+		},
+		{
 			"date": "2023-08-18",
 			"item": [
 				"Siesta."
