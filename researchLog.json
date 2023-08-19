@@ -5,7 +5,9 @@
 			"item": [
 				"Almanac CSS Tricks",
 				"Selectors CSS selectors are patterns used to select elements in the DOM.  ",
-				"Properties CSS properties style elements through their values."
+				"Properties CSS properties style elements through their values.",
+				"Create a Clock with the New CSS sin() and cos() Trigonometry Functions",
+				"https://css-tricks.com/creating-a-clock-with-the-new-css-sin-and-cos-trigonometry-functions"
 			]
 		},
 		{
