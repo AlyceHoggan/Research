@@ -9,7 +9,6 @@
 				"Display can be changed: Inline can be block and block can be inline.",
 				"Flex and Grid have an outer containers and inner contents",
 				"Control the inner contents spacing with the justify and align properties.",
-				"Syntax options include: ",
 				"The justify-content property accepts five different values:  flex-start (default): items are packed toward the start line  flex-end: items are packed toward to end line  center: items are centered along the line  space-between: items are evenly distributed in the line; first item is on the start line, last item on the end line  space-around: items are evenly distributed in the line with equal space around them  space-evenly: items are distributed so that the spacing between any two adjacent alignment subjects, before the first alignment subject, and after the last alignment subject is the same"
 			]
 		},
