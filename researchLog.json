@@ -1,6 +1,28 @@
 {
 	"entry": [
 		{
+			"item": []
+		},
+		{
+			"item": []
+		},
+		{
+			"date": "2023-09-15",
+			"item": [
+				"FM Kramer CSS Advanced Study",
+				"read from left to right",
+				"write from right to left",
+				"#id .class element { property: value }",
+				"top right bottom left",
+				"pseudo class, attributes ",
+				"form dt ",
+				"nav bar <nav></nav> ",
+				"<ul><li>point to share</li><li>point to share</li><li>point to share</li></ul>",
+				"combinator",
+				"css reference, html reference, and the css tricks almanac"
+			]
+		},
+		{
 			"date": "2023-09-14",
 			"item": [
 				"CSS and HTML continued quest - comprehension and hands-on coding practice."
