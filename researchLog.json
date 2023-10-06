@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-06",
+			"item": [
+				"Welcome brochure kerning -2 - windows vs mac fonts are not identical"
+			]
+		},
+		{
 			"date": "2023-10-05",
 			"item": [
 				"Welcome brochure issues resolved - reduce font-size, center text, and adjust kerning to remove widows "
