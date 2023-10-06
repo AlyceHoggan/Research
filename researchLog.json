@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-05",
+			"item": [
+				"Welcome brochure issues resolved - reduce font-size, center text, and adjust kerning to remove widows "
+			]
+		},
+		{
 			"date": "2023-10-04",
 			"item": [
 				"Deep voice range discovered."
