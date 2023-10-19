@@ -1,6 +1,16 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-18",
+			"item": [
+				"Discovering all the css value property pairs and their respective defaults. ",
+				"Understanding all the html default css states for each of the elements.",
+				"Learning semantic html for proper code representation.",
+				"Including proper html markup for accessibility integration. ",
+				"CSS responsive design media query breakpoints."
+			]
+		},
+		{
 			"date": "2023-10-17",
 			"item": [
 				"Five projects and a styleguide in html and css - challenge from FM"
