@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-21",
+			"item": [
+				"HTML Quiz ",
+				"CSS Quiz",
+				"Practice with HTML, CSS, and JS - building the kramer challenges",
+				"Accessibility syntax - working through the rules."
+			]
+		},
+		{
 			"date": "2023-10-20",
 			"item": [
 				"sorted ul li"
