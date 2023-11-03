@@ -3,7 +3,11 @@
 		{
 			"date": "2023-11-03",
 			"item": [
-				"Javascript defined"
+				"Javascript defined",
+				"Variables",
+				"Functions",
+				"Prototyping concepts ",
+				"Dynamically manipulate content on a webpage, respond to user actions, and update the display"
 			]
 		},
 		{
