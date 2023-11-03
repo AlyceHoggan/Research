@@ -1,6 +1,19 @@
 {
 	"entry": [
 		{
+			"date": "2023-11-02",
+			"item": [
+				"New record typing speed 52 wpm 100% accuracy. ",
+				"CSS Workshop Grid - display: grid, 1fr 1fr 1fr, min-content, max-content, fit-content.",
+				"We create a grid by using the grid value of the display property.  ",
+				"Column tracks are defined with grid-template-columns and rows with grid-template-rows.",
+				"The gap property is a shorthand for row-gap and column-gap. ",
+				"The explicit grid is the grid defined by grid-template-columns and grid-template-rows.",
+				" Items placed, or filling tracks due to auto-placement outside of that grid form the implicit grid. ",
+				"Tracks on the implicit grid are auto sized, however you can control them with grid-auto-columns and grid-auto-rows."
+			]
+		},
+		{
 			"date": "2023-10-31",
 			"item": [
 				"AI at Google. Great minds. ",
