@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2023-12-01",
+			"item": [
+				"Selectors CSS ",
+				"Links ",
+				"Lists",
+				"HTML Semantics "
+			]
+		},
+		{
 			"date": "2023-11-30",
 			"item": [
 				"Panel Organizer in code is working now. ",
