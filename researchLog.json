@@ -1,6 +1,41 @@
 {
 	"entry": [
 		{
+			"date": "2023-12-22",
+			"item": [
+				"Spoke with my sister, Elena Rae.  ",
+				"Panel organizer ",
+				"level 0 folder, ../level 1 folder, ../../level 2 folder, ../../../level 3 folder",
+				"Rule: Linking conventions: upwards with dot dot slashes, downwards with naming convention ",
+				"Rule: page to page linking",
+				"Rule: page breadcrumbs",
+				"Rule: folder to folder linking",
+				"Rule: page to website internal and external ",
+				"Position of css and js files ",
+				"Element, type, pseudo, descendent , attribute, group, and Selectors - to name a few ",
+				"HTML proper markup",
+				"Accessibility A11y colors, font-sizes scalable, animations and transitions - toggle on/off ",
+				"Responsive Web designs",
+				"Artificial Intelligence LLM - Linguistics",
+				"Writing and editing - content",
+				"Content Strategy, content creation",
+				"User Experience Design",
+				"User Interface Design",
+				"Motion Design",
+				"Website Design",
+				"Software Application Design",
+				"Graphic Design",
+				"Communication Planning Information Design",
+				"Visual Design",
+				"Human Computer Interaction Design",
+				"... Brainstorming",
+				"Collaborations",
+				"Leadership ",
+				"Mentoring ",
+				"Professional Development "
+			]
+		},
+		{
 			"date": "2023-12-21",
 			"item": [
 				"Daily code practice.  "
