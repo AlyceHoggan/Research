@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2024-01-05",
+			"item": [
+				"Inherit",
+				"Link fonts and external stylesheet ",
+				"Creating a two page website "
+			]
+		},
+		{
 			"date": "2024-01-04",
 			"item": [
 				"Edit system for drafts explained"
