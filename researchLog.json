@@ -3,7 +3,9 @@
 		{
 			"date": "2024-01-20",
 			"item": [
-				"Sadly, file not found... "
+				"Sadly, file not found... ",
+				"background-color: #ffffff;  and background-color: #222222. These are my day and night modes.",
+				"soon they will be variables again"
 			]
 		},
 		{
