@@ -7,7 +7,10 @@
 				" ",
 				".names { color: var(--primary-color); }",
 				"</style>",
-				"<h2 class=\"names\">Headline</h2>"
+				"</head>",
+				"<body>",
+				"<h2 class=\"names\">Headline ...</h2>",
+				"</body>"
 			],
 			"date": "2024-01-22"
 		},
