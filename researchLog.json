@@ -1,7 +1,15 @@
 {
 	"entry": [
 		{
-			"item": []
+			"item": [
+				"<style>",
+				":root --primary-color: #333;",
+				" ",
+				".names { color: var(--primary-color); }",
+				"</style>",
+				"<h2 class=\"names\">Headline</h2>"
+			],
+			"date": "2024-01-22"
 		},
 		{
 			"date": "2024-01-21",
