@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-02-09",
+			"item": [
+				"CSS Selectors"
+			]
+		},
+		{
 			"date": "2024-02-08",
 			"item": [
 				"Backup files, then backup the backup, and then backup again.",
