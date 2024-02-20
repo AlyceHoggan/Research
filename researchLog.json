@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2024-02-19",
+			"item": [
+				"Exploration of common UI Elements that focus on putting knowledge in the world.",
+				"Identification of real world tools that humans utilize which are meant to assist in transferring knowledge from our thoughts into the surrounding environment.",
+				"Notepads, pen, pencils, photographs, illustrations, videos, computer keyboards, dictation machines, sticky notes, mouse, stylus pen",
+				"Autonomous surveillance drones, artificial intelligence, machine learning, encyclopedias online, expert knowledge base learning systems, and chatbots "
+			]
+		},
+		{
 			"date": "2024-02-18",
 			"item": [
 				"clips on css "
