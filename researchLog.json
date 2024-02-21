@@ -1,6 +1,16 @@
 {
 	"entry": [
 		{
+			"date": "2024-02-20",
+			"item": [
+				"CSS - Margins will only collapse in the block direction. ",
+				"Margins do not collapse with Grid or Flexbox items",
+				"Parent elements can collapse margins",
+				"Empty elements will collapse margins",
+				"The largest size margin wins when bottom margins meet top margins of elements in the block direction. "
+			]
+		},
+		{
 			"date": "2024-02-19",
 			"item": [
 				"Exploration of common UI Elements that focus on putting knowledge in the world.",
