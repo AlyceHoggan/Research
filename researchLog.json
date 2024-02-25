@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-02-24",
+			"item": [
+				"display: grid - justify and align, self and item, start and end, inline and block, direction, writing-mode, padding, margin, collapse  "
+			]
+		},
+		{
 			"date": "2024-02-23",
 			"item": [
 				"Memories vs Memory"
