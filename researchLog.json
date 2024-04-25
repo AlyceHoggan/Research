@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-04-25",
+			"item": [
+				"FM Continued CSS Translate Transforms and Layout Animations"
+			]
+		},
+		{
 			"date": "2024-04-24",
 			"item": [
 				"FM Continued State Machine"
