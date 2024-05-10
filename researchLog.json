@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2024-05-09",
+			"item": [
+				"Hex system examined for patterns in color selection. ",
+				"Conversions to rgb"
+			]
+		},
+		{
 			"date": "2024-05-08",
 			"item": [
 				"Practice coding linked stylesheet on my portfolio pages. I have a few images in place and lorem ipsum for placeholder copy."
