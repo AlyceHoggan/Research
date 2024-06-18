@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-06-17",
+			"item": [
+				"file mgmt"
+			]
+		},
+		{
 			"date": "2024-06-14",
 			"item": [
 				"on animation, transitions and transforms"
