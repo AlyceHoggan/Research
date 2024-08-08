@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-08-07",
+			"item": [
+				"big picture - timeline"
+			]
+		},
+		{
 			"date": "2024-08-06",
 			"item": [
 				"Building a framework of shell design layouts"
