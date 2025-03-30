@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-03-30",
+			"item": [
+				"Kyle on css transitions"
+			]
+		},
+		{
 			"date": "2025-03-29",
 			"item": [
 				"kyle pseudo selectors, advanced, and other selectors"
